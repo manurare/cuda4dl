@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/readubyte.cpp
+readubyte.h
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/readubyte.h
+cstdio
+-
+cstdlib
+-
+
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/readubyte.h
+cstdint
+-
+cstddef
+-
+

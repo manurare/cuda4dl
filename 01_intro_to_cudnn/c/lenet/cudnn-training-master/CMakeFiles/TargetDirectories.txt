@@ -1,0 +1,3 @@
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/CMakeFiles/edit_cache.dir
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/CMakeFiles/rebuild_cache.dir
+/home/jalley/workspace/master/lmastergpu/cuda4dl/01_intro_to_cudnn/c/lenet/cudnn-training-master/CMakeFiles/trainlenet.dir
